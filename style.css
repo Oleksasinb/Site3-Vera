@@ -1,0 +1,19 @@
+.pervay {
+    border: 2px inset rgb(0, 0, 0);
+    width: 580px;
+    height: 800px; 
+}
+.vtoray {
+    border: 2px inset rgb(0, 0, 0);
+    text-align: left;
+    width: 1323px;
+    height: 800px;
+}
+caption {
+    text-align: center;
+    font-size: 60px;
+
+}
+td {
+    border: 1px inset rgb(0, 0, 0);
+}
